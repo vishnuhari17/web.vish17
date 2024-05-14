@@ -12,10 +12,9 @@ function AboutCard() {
             from <span className="purple"> Kerala, India.</span>
             <br />
             I am currently studing Btech in Computer Science
-            {/* <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
-            <br /> */}
+            <br />
+            I enjoy creating things that offer practical benefits to the wider audience.
+            <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -27,7 +26,10 @@ function AboutCard() {
               <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Enjoying nature
+              <ImPointRight /> Traveling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Teaching
             </li>
           </ul>
 

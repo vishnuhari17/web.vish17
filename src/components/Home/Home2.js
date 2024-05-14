@@ -23,16 +23,16 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Python, MySQL and DSA.</b>
+                <b className="purple"> Python, Javascript, Next.js, React, </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are in creating some usefull &nbsp;
               <i>
-                <b className="purple">Projects </b> and
+                <b className="purple">Projects/Prototypes  </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  AI
+                  Artificial Inteligence and Machine Learning
                 </b>
               </i>
               {/* <br />
